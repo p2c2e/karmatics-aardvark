@@ -4,7 +4,8 @@ var showHtml = function (elem) {
 var aardvark = {
 
 isBookmarklet: true,
-resourcePrefix: "http://karmatics.com/aardvark/",
+// resourcePrefix: "http://karmatics.com/aardvark/",
+resourcePrefix: "https://raw.githubusercontent.com/p2c2e/karmatics-aardvark/master/",
 srcFiles: [
   'aardvarkStrings.js',
   'aardvarkUtils.js',
